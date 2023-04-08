@@ -1,0 +1,514 @@
+[2022-11-12 12:12:43] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/public/index.php | Строка: 8
+===============
+[2022-11-12 12:13:19] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/public/index.php | Строка: 8
+===============
+[2022-11-12 12:53:55] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/public/index.php | Строка: 8
+===============
+[2022-11-12 12:53:55] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/public/index.php | Строка: 8
+===============
+[2022-11-12 12:53:55] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/public/index.php | Строка: 8
+===============
+[2022-11-12 14:24:22] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 26
+===============
+[2022-11-12 14:24:42] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 26
+===============
+[2022-11-12 14:29:15] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 26
+===============
+[2022-11-12 14:29:19] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 26
+===============
+[2022-11-12 14:53:17] Текст ошибки: Контроллер $controller не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 29
+===============
+[2022-11-12 14:53:42] Текст ошибки: Class "app\controllers\PageController" not found | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 26
+===============
+[2022-11-12 14:57:36] Текст ошибки: Контроллер $controller не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 34
+===============
+[2022-11-12 14:59:19] Текст ошибки: Контроллер $controller не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 34
+===============
+[2022-11-12 14:59:32] Текст ошибки: Контроллер $controller не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 34
+===============
+[2022-11-12 15:01:40] Текст ошибки: Метод $controller::$action не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 31
+===============
+[2022-11-15 12:27:31] Текст ошибки: Метод $controller::$action не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 31
+===============
+[2022-11-18 09:03:14] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 38
+===============
+[2022-11-18 09:03:14] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 38
+===============
+[2022-11-18 09:18:45] Текст ошибки: Class "app\controllers\App" not found | Файл: /Applications/WebDevelopment/localhost/ishop/app/controllers/MainController.php | Строка: 12
+===============
+[2022-11-18 14:44:29] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 38
+===============
+[2022-11-18 15:01:58] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-18 15:06:21] Текст ошибки: Call to undefined method ishop\base\View::render() | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/base/Controller.php | Строка: 26
+===============
+[2022-11-18 15:06:58] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 38
+===============
+[2022-11-18 15:07:11] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 38
+===============
+[2022-11-18 15:07:39] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 38
+===============
+[2022-11-18 15:09:05] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 38
+===============
+[2022-11-18 15:11:55] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 38
+===============
+[2022-11-18 15:11:57] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 38
+===============
+[2022-11-18 15:11:58] Текст ошибки: Call to undefined method app\controllers\PageController::getView() | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 30
+===============
+[2022-11-18 15:11:58] Текст ошибки: Метод $controller::$action не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 32
+===============
+[2022-11-18 15:11:58] Текст ошибки: Call to undefined method app\controllers\PageController::getView() | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 30
+===============
+[2022-11-18 15:11:59] Текст ошибки: Метод $controller::$action не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 32
+===============
+[2022-11-18 15:13:19] Текст ошибки: Метод $controller::$action не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 31
+===============
+[2022-11-18 15:14:22] Текст ошибки: Метод $controller::$action не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 31
+===============
+[2022-11-19 13:24:27] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 38
+===============
+[2022-11-19 13:25:04] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 38
+===============
+[2022-11-19 13:33:28] Текст ошибки: Call to undefined method app\controllers\PageController::getView() | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 32
+===============
+[2022-11-19 13:34:19] Текст ошибки: Call to undefined method app\controllers\PageController::getView() | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 32
+===============
+[2022-11-19 13:34:19] Текст ошибки: Call to undefined method app\controllers\PageController::getView() | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 32
+===============
+[2022-11-19 13:35:19] Текст ошибки: Не найден вид /Applications/WebDevelopment/localhost/ishop/app/views/Page/view.php | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/base/View.php | Строка: 38
+===============
+[2022-11-19 13:35:23] Текст ошибки: Не найден вид /Applications/WebDevelopment/localhost/ishop/app/views/Page/view.php | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/base/View.php | Строка: 38
+===============
+[2022-11-19 13:35:59] Текст ошибки: Не найден вид /Applications/WebDevelopment/localhost/ishop/app/views/Page/view.php | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/base/View.php | Строка: 38
+===============
+[2022-11-19 13:36:14] Текст ошибки: Не найден вид /Applications/WebDevelopment/localhost/ishop/app/views/Page/view.php | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/base/View.php | Строка: 38
+===============
+[2022-11-19 13:36:18] Текст ошибки: Не найден вид /Applications/WebDevelopment/localhost/ishop/app/views/Page/view.php | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/base/View.php | Строка: 38
+===============
+[2022-11-19 13:36:19] Текст ошибки: Не найден вид /Applications/WebDevelopment/localhost/ishop/app/views/Page/view.php | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/base/View.php | Строка: 38
+===============
+[2022-11-19 13:36:20] Текст ошибки: Метод $controller::$action не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 34
+===============
+[2022-11-19 13:36:20] Текст ошибки: Не найден вид /Applications/WebDevelopment/localhost/ishop/app/views/Page/view.php | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/base/View.php | Строка: 38
+===============
+[2022-11-19 13:36:51] Текст ошибки: Не найден вид /Applications/WebDevelopment/localhost/ishop/app/views/Page/view.php | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/base/View.php | Строка: 38
+===============
+[2022-11-19 13:37:47] Текст ошибки: Не найден вид /Applications/WebDevelopment/localhost/ishop/app/views/Page/view.php | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/base/View.php | Строка: 38
+===============
+[2022-11-19 13:37:59] Текст ошибки: Не найден вид /Applications/WebDevelopment/localhost/ishop/app/views/Page/view.php | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/base/View.php | Строка: 38
+===============
+[2022-11-19 13:38:00] Текст ошибки: Метод $controller::$action не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 34
+===============
+[2022-11-19 13:38:00] Текст ошибки: Не найден вид /Applications/WebDevelopment/localhost/ishop/app/views/Page/view.php | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/base/View.php | Строка: 38
+===============
+[2022-11-19 15:13:42] Текст ошибки: Class "R" not found | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Db.php | Строка: 13
+===============
+[2022-11-19 15:15:41] Текст ошибки: Class "R" not found | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Db.php | Строка: 13
+===============
+[2022-11-21 12:35:45] Текст ошибки: Нет соединения с базой данных | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Db.php | Строка: 14
+===============
+[2022-11-22 00:49:45] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 00:49:45] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 00:49:45] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 00:49:45] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:35:47] Текст ошибки: Не найден шаблон watches | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/base/View.php | Строка: 45
+===============
+[2022-11-22 12:35:47] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:35:47] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:37:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:39:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:40:10] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:40:11] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:40:12] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:40:15] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:40:51] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:40:58] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 12:55:27] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 13:02:50] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 13:02:54] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 13:08:55] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 13:11:01] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 13:11:04] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 13:11:31] Текст ошибки: Call to undefined method ishop\base\View::setMeta() | Файл: /Applications/WebDevelopment/localhost/ishop/app/views/layouts/watches.php | Строка: 10
+===============
+[2022-11-22 13:13:20] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 13:17:50] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 13:17:56] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 13:18:42] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 13:19:29] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 13:21:13] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-22 13:26:54] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-23 14:22:52] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-23 14:22:52] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-23 14:23:00] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-27 07:17:21] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-27 07:17:21] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-28 09:53:04] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-28 11:24:00] Текст ошибки: Нет соединения с базой данных | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Db.php | Строка: 14
+===============
+[2022-11-29 10:54:09] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-29 10:54:32] Текст ошибки: syntax error, unexpected token "endforeach", expecting "elseif" or "else" or "endif" | Файл: /Applications/WebDevelopment/localhost/ishop/app/views/Main/index.php | Строка: 62
+===============
+[2022-11-29 11:12:51] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-29 11:13:12] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-29 11:13:16] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-29 11:19:05] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-29 11:19:40] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-29 11:20:32] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-29 11:20:37] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-29 11:21:43] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-29 11:22:23] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-29 11:22:49] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-29 11:23:27] Текст ошибки: Контроллер $controller не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 36
+===============
+[2022-11-29 11:26:03] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-29 11:30:36] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-29 11:39:43] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-29 11:41:22] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-29 11:52:06] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in /Applications/WebDevelopment/localhost/ishop/app/controllers/AppController.php on line 16 and exactly 2 expected | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Registry.php | Строка: 11
+===============
+[2022-11-29 11:54:59] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-11-29 11:57:26] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-02 02:02:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-02 02:02:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-02 02:02:08] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-03 11:50:24] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-03 12:39:02] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-03 12:52:07] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-03 12:53:16] Текст ошибки: Object of class app\widgets\currency\Currency could not be converted to string | Файл: /Applications/WebDevelopment/localhost/ishop/app/views/layouts/watches.php | Строка: 30
+===============
+[2022-12-03 12:53:54] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-03 12:54:38] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-03 12:55:14] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-03 13:02:29] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-03 13:15:22] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-03 13:15:29] Текст ошибки: Class "R" not found | Файл: /Applications/WebDevelopment/localhost/ishop/app/controllers/CurrencyController.php | Строка: 10
+===============
+[2022-12-04 12:59:15] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-05 16:43:38] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in /Applications/WebDevelopment/localhost/ishop/app/widgets/menu/Menu.php on line 40 and exactly 2 expected | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Registry.php | Строка: 11
+===============
+[2022-12-06 14:44:00] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in /Applications/WebDevelopment/localhost/ishop/app/widgets/menu/Menu.php on line 40 and exactly 2 expected | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Registry.php | Строка: 11
+===============
+[2022-12-06 14:44:00] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-06 14:44:00] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-06 14:44:32] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in /Applications/WebDevelopment/localhost/ishop/app/widgets/menu/Menu.php on line 40 and exactly 2 expected | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Registry.php | Строка: 11
+===============
+[2022-12-06 14:47:06] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in /Applications/WebDevelopment/localhost/ishop/app/widgets/menu/Menu.php on line 40 and exactly 2 expected | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Registry.php | Строка: 11
+===============
+[2022-12-06 20:59:11] Текст ошибки: Контроллер $controller не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 36
+===============
+[2022-12-06 21:02:27] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-06 21:02:27] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-06 21:02:27] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-06 21:02:27] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-06 21:02:27] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-06 21:02:27] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-06 21:02:27] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-06 21:02:27] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-06 21:02:27] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-06 21:02:27] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-06 21:02:27] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-06 21:04:39] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-06 21:21:25] Текст ошибки: Контроллер $controller не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 36
+===============
+[2022-12-08 14:47:41] Текст ошибки: Class "app\controllers\Product" not found | Файл: /Applications/WebDevelopment/localhost/ishop/app/controllers/ProductController.php | Строка: 20
+===============
+[2022-12-08 15:05:23] Текст ошибки: Cannot use [] for reading | Файл: /Applications/WebDevelopment/localhost/ishop/app/controllers/ProductController.php | Строка: 27
+===============
+[2022-12-10 11:48:39] Текст ошибки: Контроллер $controller не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 36
+===============
+[2022-12-12 12:07:09] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-12 12:07:09] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-12 21:57:20] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-12 22:09:41] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-12 22:09:57] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-12 22:21:52] Текст ошибки: syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" | Файл: /Applications/WebDevelopment/localhost/ishop/app/views/Product/view.php | Строка: 270
+===============
+[2022-12-16 11:52:55] Текст ошибки: Контроллер $controller не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 36
+===============
+[2022-12-16 11:53:09] Текст ошибки: Контроллер $controller не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 36
+===============
+[2022-12-16 11:53:21] Текст ошибки: Контроллер $controller не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 36
+===============
+[2022-12-16 11:54:14] Текст ошибки: Контроллер {$controller} не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 36
+===============
+[2022-12-16 11:54:22] Текст ошибки: Контроллер $controller не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 36
+===============
+[2022-12-16 11:54:55] Текст ошибки: Контроллер $controller не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 36
+===============
+[2022-12-16 12:05:41] Текст ошибки: Контроллер $controller не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 36
+===============
+[2022-12-16 12:07:50] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-16 12:07:50] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-16 12:07:52] Текст ошибки: Контроллер $controller не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 36
+===============
+[2022-12-16 12:08:04] Текст ошибки: Контроллер $controller не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 36
+===============
+[2022-12-16 12:11:33] Текст ошибки: Контроллер $controller не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 36
+===============
+[2022-12-16 12:40:25] Текст ошибки: Контроллер $controller не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 36
+===============
+[2022-12-16 13:10:09] Текст ошибки: Не найден вид /Applications/WebDevelopment/localhost/ishop/app/views/Cart/add.php | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/base/View.php | Строка: 38
+===============
+[2022-12-16 13:55:19] Текст ошибки: syntax error, unexpected identifier "debug" | Файл: /Applications/WebDevelopment/localhost/ishop/app/views/layouts/watches.php | Строка: 96
+===============
+[2022-12-16 13:55:21] Текст ошибки: syntax error, unexpected identifier "debug" | Файл: /Applications/WebDevelopment/localhost/ishop/app/views/layouts/watches.php | Строка: 96
+===============
+[2022-12-16 15:25:53] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-16 15:25:54] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-16 15:25:54] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-16 15:25:54] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-16 15:29:35] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-16 15:29:35] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-16 15:29:35] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-16 15:29:36] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-17 11:16:42] Текст ошибки: syntax error, unexpected token "}" | Файл: /Applications/WebDevelopment/localhost/ishop/app/controllers/CartController.php | Строка: 36
+===============
+[2022-12-17 11:24:57] Текст ошибки: syntax error, unexpected identifier "debug", expecting "," or ";" | Файл: /Applications/WebDevelopment/localhost/ishop/app/views/layouts/watches.php | Строка: 106
+===============
+[2022-12-17 11:47:27] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-17 11:47:27] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-17 12:47:53] Текст ошибки: Метод $controller::$action не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 33
+===============
+[2022-12-17 12:52:40] Текст ошибки: Метод $controller::$action не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 33
+===============
+[2022-12-17 14:06:34] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/app/controllers/CategoryController.php | Строка: 13
+===============
+[2022-12-17 16:51:27] Текст ошибки: Class "app\controllers\User" not found | Файл: /Applications/WebDevelopment/localhost/ishop/app/controllers/UserController.php | Строка: 9
+===============
+[2022-12-17 17:45:57] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 206
+===============
+[2022-12-17 17:46:40] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 206
+===============
+[2022-12-17 17:53:35] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user1' for key 'login' | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 206
+===============
+[2022-12-17 20:20:59] Текст ошибки: Метод $controller::$action не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 33
+===============
+[2022-12-17 20:29:14] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-17 21:05:54] Текст ошибки: Cannot use object of type app\models\User as array | Файл: /Applications/WebDevelopment/localhost/ishop/app/controllers/CartController.php | Строка: 83
+===============
+[2022-12-17 21:31:56] Текст ошибки: Метод $controller::$action не найден | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 33
+===============
+[2022-12-17 23:53:28] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-17 23:53:28] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-17 23:55:18] Текст ошибки: Address in mailbox given [email] does not comply with RFC 2822, 3.6.2. | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php | Строка: 355
+===============
+[2022-12-18 00:00:16] Текст ошибки: Address in mailbox given [email] does not comply with RFC 2822, 3.6.2. | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php | Строка: 355
+===============
+[2022-12-18 00:06:33] Текст ошибки: Address in mailbox given [email] does not comply with RFC 2822, 3.6.2. | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php | Строка: 355
+===============
+[2022-12-18 00:18:42] Текст ошибки: Address in mailbox given [email] does not comply with RFC 2822, 3.6.2. | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php | Строка: 355
+===============
+[2022-12-18 00:26:53] Текст ошибки: Address in mailbox given [email] does not comply with RFC 2822, 3.6.2. | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php | Строка: 355
+===============
+[2022-12-18 00:27:51] Текст ошибки: Address in mailbox given [flitzz276] does not comply with RFC 2822, 3.6.2. | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php | Строка: 355
+===============
+[2022-12-18 00:27:58] Текст ошибки: Address in mailbox given [flitzz276] does not comply with RFC 2822, 3.6.2. | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php | Строка: 355
+===============
+[2022-12-18 00:28:17] Текст ошибки: Address in mailbox given [email] does not comply with RFC 2822, 3.6.2. | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php | Строка: 355
+===============
+[2022-12-18 00:28:28] Текст ошибки: Address in mailbox given [flitzz276] does not comply with RFC 2822, 3.6.2. | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php | Строка: 355
+===============
+[2022-12-18 01:03:34] Текст ошибки: Swift_Mailer::send(): Argument #1 ($message) must be of type Swift_Mime_SimpleMessage, null given, called in /Applications/WebDevelopment/localhost/ishop/app/models/Order.php on line 59 | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php | Строка: 59
+===============
+[2022-12-18 01:04:34] Текст ошибки: Unclosed '{' on line 10 | Файл: /Applications/WebDevelopment/localhost/ishop/app/models/Order.php | Строка: 68
+===============
+[2022-12-18 01:04:48] Текст ошибки: Address in mailbox given [email] does not comply with RFC 2822, 3.6.2. | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php | Строка: 355
+===============
+[2022-12-26 17:52:47] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
+[2022-12-26 17:52:47] Текст ошибки: Страница не найдена | Файл: /Applications/WebDevelopment/localhost/ishop/vendor/ishop/core/Router.php | Строка: 39
+===============
